@@ -1,5 +1,5 @@
 # Google-Music-Player
-Version Base : 4.6.1.01.1
+Version Base : 4.6.1.0_armbi-v7a/arm64
 
 Version Application: 3.0.2
 
