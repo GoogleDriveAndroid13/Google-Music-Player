@@ -1,5 +1,5 @@
 # Google-Music-Player
-Version Base : 4.6.1.0_armeabi-v7a/armeabi-v8a(64)/x86_x64
+Cache Base : armeabi-v7a/arm64/x86_x64
 
 Version Application: 3.0.2
 
