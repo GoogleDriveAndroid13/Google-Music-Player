@@ -1,5 +1,6 @@
 # Google-Music-Player
-Data Base : armeabi-v7a/arm64/x86_x64
+
+Data Base: armeabi/arm64/x86_x64
 
 Version Application: 3.0.2
 
